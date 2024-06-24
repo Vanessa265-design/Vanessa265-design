@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vane! 👋
 
 - 🔭 I’m currently working as an IT Auditor Consultant
 - 🌱 I’m currently learning to analyse datasets with different programming languages
