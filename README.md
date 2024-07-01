@@ -1,7 +1,7 @@
 ### Hi, I'm Vane! 👋
 
 - 🔭 I’m currently working as an IT Auditor Consultant
-- 🌱 I’m currently learning to analyse datasets with different programming languages
+- 🌱 I’m currently learning to analyse datasets with different programming languages, such as: SQL, Python, R, JSON.
 - 👯 I’m looking to collaborate with people that would like to improve the results or share any feedback to the code
 - ⚡ I'm a Certified Tableau Desktop Specialist
 - ⚡ I completed a Diploma in Data Science
